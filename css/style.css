@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.alerts-container {}
+
+.callout-container {
+    height: 100vh;
+
+    background: url(images/whisky-image.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.quotes-container {}
+
+.features-container {}
